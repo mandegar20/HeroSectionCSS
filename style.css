@@ -6,4 +6,34 @@
 
 html {
   font-family: "poppins", sans-serif;
+  font-size: 10px;
+}
+
+body {
+  color: #333;
+}
+
+.container {
+  background-color: #eee;
+  margin: 0 auto;
+  width: 95vw;
+  height: 100vh;
+}
+
+.header {
+  font-size: 1.8rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 5.2rem;
+  margin-bottom: 3.2rem;
+  line-height: 1.2;
+}
+p {
+  font-size: 2rem;
+  line-height: 1.6;
+  margin-bottom: 4.8rem;
 }
